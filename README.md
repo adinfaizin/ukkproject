@@ -32,10 +32,12 @@ Web yang saya buat ini adalah sebuah buku nota digital
 
 
 ### ERD
-![ERD](https://github.com/(namauser)/(namarepo)/blob/main/erd.png.png)
+![ERD](https://github.com/(namauser)/(namarepo)/blob/main/fotoerd.png)
 
 ### UML
-![UML](https://github.com/(namauser)/(namarepo)/blob/main/uml.png.png)
+![UML](https://github.com/(namauser)/(namarepo)/blob/main/fotouml.png)
+
+
 Tabel Failed_Jobs,
 Personal_access_tokens,
 Password_reset_tokens,migration di abaikan saja karena bawaan laravel
