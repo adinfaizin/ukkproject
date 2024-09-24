@@ -35,7 +35,7 @@ Web yang saya buat ini adalah sebuah buku nota digital
 ![fotoerd](https://raw.githubusercontent.com/adinfaizin/ukkproject/refs/heads/main/fotoerd.png)
 
 ### UML
-![fotouml](https://github.com/(namauser)/(namarepo)/blob/main/fotouml.png)
+![fotouml](https://raw.githubusercontent.com/adinfaizin/ukkproject/refs/heads/main/fotouml.png)
 
 
 Tabel Failed_Jobs,
