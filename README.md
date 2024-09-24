@@ -32,10 +32,10 @@ Web yang saya buat ini adalah sebuah buku nota digital
 
 
 ### ERD
-![ERD](https://github.com/(namauser)/(namarepo)/blob/main/fotoerd.png)
+![fotoerd](https://github.com/(namauser)/(namarepo)/blob/main/fotoerd.png)
 
 ### UML
-![UML](https://github.com/(namauser)/(namarepo)/blob/main/fotouml.png)
+![fotouml](https://github.com/(namauser)/(namarepo)/blob/main/fotouml.png)
 
 
 Tabel Failed_Jobs,
